@@ -13,3 +13,9 @@ var animal = {
   age: 3,
   colour: 'black and white'
 };
+
+var customer = {
+  name: 'Sally',
+  customerNumber: 1683,
+  aveSpend: 78.61
+};
